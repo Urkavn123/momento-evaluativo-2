@@ -4,6 +4,7 @@ Página del libro 194
 
 Ejercicios. 5.15
 
+![3 drawio](https://github.com/user-attachments/assets/ff0435fc-0e2a-4753-8776-471eb59051ce)
 
 ![image](https://github.com/user-attachments/assets/54eee4b6-91fe-404c-85e9-7da8d7601fef)
 
