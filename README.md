@@ -4,13 +4,14 @@ Página del libro 194
 
 Ejercicios. 5.15
 
-![ALGORITMIA MOMENTO 2 drawio](https://github.com/user-attachments/assets/e5850204-5631-4a2c-bca9-93fd04ac5ef5)
 
 ![image](https://github.com/user-attachments/assets/54eee4b6-91fe-404c-85e9-7da8d7601fef)
 
 ![image](https://github.com/user-attachments/assets/6bb2eba6-b1c8-44ea-ad13-41bcf082fcae)
 
 5.16
+
+![ALGORITMIA MOMENTO 2 drawio](https://github.com/user-attachments/assets/e5850204-5631-4a2c-bca9-93fd04ac5ef5)
 
 ![image](https://github.com/user-attachments/assets/793b7dad-0690-4853-8b9a-bc70d52d034b)
 
@@ -62,6 +63,8 @@ Mientras el código del artículo no sea 'X':
 Imprimir total_articulos_A, importe_A
 Imprimir total_articulos_B, importe_B
 
+![image](https://github.com/user-attachments/assets/064c7d14-887e-4358-921c-297a3eaecb5d)
+
 ![image](https://github.com/user-attachments/assets/816b75a7-8d8a-4475-9179-e2a022ebae7a)
 
 ![image](https://github.com/user-attachments/assets/559b382d-40fb-40d6-aec5-9bc653ee62de)
@@ -92,6 +95,8 @@ Sino:
     porcentaje_errores = 0
 
 Imprimir num_dias, media_maxima, media_minima, num_errores, porcentaje_errores
+
+![ALGORITMIA MOMENTO 2,2 drawio](https://github.com/user-attachments/assets/da74cd2d-1cd1-4dfb-8084-a703bd1d91ea)
 
 ![image](https://github.com/user-attachments/assets/a5e392d2-29ae-487f-a724-8855c1e61dca)
 
